@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I code in Java, Typescript, Javascript<br>
-Learning C, Python
+I do Java, Typescript.
