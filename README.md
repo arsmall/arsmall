@@ -6,4 +6,3 @@ Applications: Discord Bot (discord.js), Minecraft Bukkit/Spigot Plugin, React.ts
 
 Founder, Developer of Minecraft @Riftcall server \
 Business Website: https://riftcall.net/ \
-Business Enquires: riftcall@riftcall.net
