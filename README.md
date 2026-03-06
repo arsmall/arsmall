@@ -4,5 +4,5 @@ Year 3 BSc Computer Science \
 Programming Languages: Java, Typescript \
 Applications: Discord Bot (discord.js), Minecraft Bukkit/Spigot Plugin, React.ts, Flutter, etc..
 
-System Adminstrator of Minecraft @Riftcall server \
+System Adminstrator @ Minecraft Riftcall server \
 Business Website: https://riftcall.net/
